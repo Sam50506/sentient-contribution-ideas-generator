@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@Sam50506](https://github.com/Sam50506)
-- **SentientAI Discord**:Username is same ss here, Find me in the juniot builder channel
+- **SentientAI Discord**: Username is same as here, Find me in the juniot builder channel
 - **Project Issues**: [GitHub Issues](https://github.com/Sam50506/sentient-idea-generator/issues)
 
 ---
