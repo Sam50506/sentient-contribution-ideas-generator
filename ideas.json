@@ -1,0 +1,706 @@
+{
+  "helper": [
+    {
+      "title": "Newbie Onboarding Buddy",
+      "description": "Pair up with new members to walk them through their first contribution step by step."
+    },
+    {
+      "title": "Welcome Message Writer",
+      "description": "Create warm, clear welcome posts for newcomers in the community channels."
+    },
+    {
+      "title": "Contribution Path Explainer",
+      "description": "Help new members understand the four paths (Builder, Educator, Artist, Helper) with examples."
+    },
+    {
+      "title": "FAQ Maintainer",
+      "description": "Keep an up-to-date FAQ page so newcomers can find answers quickly."
+    },
+    {
+      "title": "Weekly Community Recap",
+      "description": "Summarize weekly events, projects, and contributions in a short digest post."
+    },
+    {
+      "title": "Event Moderator",
+      "description": "Support events by moderating chats, Q&A, and keeping the flow smooth."
+    },
+    {
+      "title": "Feedback Partner",
+      "description": "Offer constructive feedback to others on their contributions to encourage quality."
+    },
+    {
+      "title": "Quick Start Checklist",
+      "description": "Design a short checklist for newcomers to complete their first week in Sentient."
+    },
+    {
+      "title": "Discussion Organizer",
+      "description": "Help keep chat threads clear by summarizing and guiding conversations."
+    },
+    {
+      "title": "Shoutout Maker",
+      "description": "Post shoutouts to highlight and celebrate other members' contributions."
+    },
+    {
+      "title": "Help Channel Responder",
+      "description": "Be active in the help channel, answering newcomers' questions daily."
+    },
+    {
+      "title": "Event Note Taker",
+      "description": "Take detailed notes during community calls and share them afterward."
+    },
+    {
+      "title": "Poll Creator",
+      "description": "Run polls to gather opinions on tools, events, or community initiatives."
+    },
+    {
+      "title": "Guided Tour Host",
+      "description": "Organize a short live session where you walk new members through Sentient platforms."
+    },
+    {
+      "title": "Onboarding Video Assistant",
+      "description": "Help record or edit video tutorials for onboarding new members."
+    },
+    {
+      "title": "Resource Librarian",
+      "description": "Maintain a shared folder or Notion page of useful resources for new contributors."
+    },
+    {
+      "title": "Community Calendar Manager",
+      "description": "Keep track of upcoming events and share weekly reminders."
+    },
+    {
+      "title": "Icebreaker Organizer",
+      "description": "Post fun icebreaker questions or small activities for newcomers to engage."
+    },
+    {
+      "title": "Sentient Buddy System",
+      "description": "Pair newcomers with experienced members and help coordinate the system."
+    },
+    {
+      "title": "Spotlight Stories",
+      "description": "Interview members about their contributions and publish their stories."
+    },
+    {
+      "title": "Event Reminder Poster",
+      "description": "Post reminders before events so members don't miss them."
+    },
+    {
+      "title": "Checklist Designer",
+      "description": "Design onboarding checklists or progress trackers for new helpers."
+    },
+    {
+      "title": "Feedback Collector",
+      "description": "Collect anonymous feedback about community events and share insights."
+    },
+    {
+      "title": "Guide Translator",
+      "description": "Translate onboarding or guide materials into other languages for global members."
+    },
+    {
+      "title": "Community Icebreaker Host",
+      "description": "Run small live sessions where members introduce themselves and connect."
+    },
+    {
+      "title": "New Member Follow-up",
+      "description": "Check in with new members after their first week to ensure they are engaged."
+    },
+    {
+      "title": "Knowledge Connector",
+      "description": "Match members with similar interests or projects and introduce them."
+    },
+    {
+      "title": "Event Setup Helper",
+      "description": "Assist organizers with preparing Zoom/Discord settings and roles before calls."
+    },
+    {
+      "title": "Community Health Monitor",
+      "description": "Keep track of participation and help identify members who may need encouragement."
+    },
+    {
+      "title": "Workshop Assistant",
+      "description": "Support educators by handling logistics during workshops."
+    },
+    {
+      "title": "Guide Summarizer",
+      "description": "Take long guides and create short summaries for quick reading."
+    },
+    {
+      "title": "Newbie Questions Collector",
+      "description": "Collect common beginner questions and turn them into a community resource."
+    },
+    {
+      "title": "Sentient Map Maker",
+      "description": "Create a simple visual map showing where to find everything in the community."
+    },
+    {
+      "title": "Encouragement Poster",
+      "description": "Post motivational messages or reminders to keep builders and educators active."
+    },
+    {
+      "title": "Community Support Hotline",
+      "description": "Be available at set times for newcomers to DM or ask for live help."
+    },
+    {
+      "title": "Newcomer Interviewer",
+      "description": "Interview new members about why they joined and share their answers as posts."
+    },
+    {
+      "title": "Onboarding Checklist Designer",
+      "description": "Create visual onboarding checklists for Sentient newcomers."
+    },
+    {
+      "title": "Learning Path Helper",
+      "description": "Suggest resources to newcomers based on their chosen role."
+    },
+    {
+      "title": "Community Icebreaker Meme",
+      "description": "Create light memes to make new members feel welcome."
+    },
+    {
+      "title": "Weekly Helper Report",
+      "description": "Share a short report of what helpers did that week to support the community."
+    },
+    {
+      "title": "Contribution Recognition Post",
+      "description": "Make posts tagging members who did great work that week."
+    },
+    {
+      "title": "Mentorship Assistant",
+      "description": "Help coordinate mentors with mentees in the community."
+    },
+    {
+      "title": "Resource Pack Creator",
+      "description": "Create a starter pack of links, guides, and templates for newcomers."
+    }
+  ],
+  "builder": [
+    {
+      "title": "Daily Build Log",
+      "description": "Post a short update with screenshots or code snippets of what you built that day."
+    },
+    {
+      "title": "Contribution Tracker Tool",
+      "description": "Build a simple app to track and display Sentient contributions."
+    },
+    {
+      "title": "Open Source Fix",
+      "description": "Pick a Sentient-related repo and submit a useful pull request."
+    },
+    {
+      "title": "Prototype Demo",
+      "description": "Build a quick prototype and record a short demo video."
+    },
+    {
+      "title": "UI Concept Design",
+      "description": "Design and share a UI mockup for a potential Sentient tool."
+    },
+    {
+      "title": "Code Snippet Post",
+      "description": "Share a small, reusable code snippet with explanation for others."
+    },
+    {
+      "title": "Resource Hub Builder",
+      "description": "Create a lightweight hub of links/resources useful for Sentient contributors."
+    },
+    {
+      "title": "Feature Request Poll",
+      "description": "Ask the community what small tool they want next, then build it."
+    },
+    {
+      "title": "Bug Fix Story",
+      "description": "Document a bug you solved in one of your projects and how you fixed it."
+    },
+    {
+      "title": "Open Source Starter",
+      "description": "Publish a starter template repo for other Sentient builders."
+    },
+    {
+      "title": "Mobile-Friendly Upgrade",
+      "description": "Take an old project and make it mobile-friendly, then post the results."
+    },
+    {
+      "title": "GitHub Guide",
+      "description": "Write a guide on how to deploy projects on GitHub Pages."
+    },
+    {
+      "title": "Analytics Dashboard",
+      "description": "Build a basic dashboard that visualizes contribution data."
+    },
+    {
+      "title": "Community Tool Idea",
+      "description": "Pitch a tool idea to the community and gather feedback before building."
+    },
+    {
+      "title": "Sentient Role Badge Generator",
+      "description": "Build a tool that generates custom role badges for contributors."
+    },
+    {
+      "title": "Tutorial Post",
+      "description": "Explain step by step how you built one of your tools."
+    },
+    {
+      "title": "Public Roadmap",
+      "description": "Build and share your own builder roadmap for Sentient contributions."
+    },
+    {
+      "title": "Clone and Improve",
+      "description": "Take an existing Sentient tool and release an improved version."
+    },
+    {
+      "title": "Automation Script",
+      "description": "Write a script that automates a repetitive task in the community."
+    },
+    {
+      "title": "Mini Game for Builders",
+      "description": "Make a small web-based game themed around Sentient roles."
+    },
+    {
+      "title": "Open Data Visualizer",
+      "description": "Build a visualizer for any open dataset relevant to the community."
+    },
+    {
+      "title": "Builder Portfolio Page",
+      "description": "Create a portfolio website that organizes your Sentient builds."
+    },
+    {
+      "title": "Sentient Progress Meter",
+      "description": "Build a progress bar app that tracks milestones toward AGI roles."
+    },
+    {
+      "title": "Quick Deploy Template",
+      "description": "Make a one-click deployable template (HTML/CSS/JS) for new builders."
+    },
+    {
+      "title": "Hackathon Tool",
+      "description": "Build a simple tool during a community event and release it same day."
+    },
+    {
+      "title": "Code Comparison Post",
+      "description": "Show two ways of solving the same problem with pros/cons."
+    },
+    {
+      "title": "UI Theme Pack",
+      "description": "Publish CSS themes for Sentient tools so users can switch looks."
+    },
+    {
+      "title": "Community Survey Tool",
+      "description": "Create a lightweight tool for running community surveys."
+    },
+    {
+      "title": "Plugin Prototype",
+      "description": "Experiment with a browser extension or plugin for Sentient."
+    },
+    {
+      "title": "Learning Log",
+      "description": "Document what you learned while building, even if it failed."
+    },
+    {
+      "title": "Sentient Meme Tool",
+      "description": "Build a simple meme maker for community jokes."
+    },
+    {
+      "title": "Project Showcase Thread",
+      "description": "Post a showcase thread with screenshots and explanation of your build."
+    },
+    {
+      "title": "Reusable Component Library",
+      "description": "Publish UI or code components for others to reuse."
+    },
+    {
+      "title": "Checklist Generator",
+      "description": "Build a tool that creates onboarding checklists for members."
+    },
+    {
+      "title": "Interactive Tutorial",
+      "description": "Make a small interactive tutorial for coding basics inside Sentient."
+    },
+    {
+      "title": "AGI Journey Visualizer",
+      "description": "Build a visual representation of Early → Advanced → Sentient AGI progress."
+    },
+    {
+      "title": "Community Suggestion Box",
+      "description": "Make an app where members can submit and vote on tool ideas."
+    },
+    {
+      "title": "Version Tracker",
+      "description": "Build a system that tracks versions of Sentient community projects."
+    },
+    {
+      "title": "Quick Builder Tips",
+      "description": "Post small productivity hacks for Sentient builders."
+    },
+    {
+      "title": "Open Build Thread",
+      "description": "Work on a project live and update the thread daily with progress."
+    },
+    {
+      "title": "Sentient Badge Printer",
+      "description": "Generate printable badges/cards for Sentient contributors."
+    },
+    {
+      "title": "Lightweight API Mock",
+      "description": "Build a simple mock API for testing builder projects."
+    },
+    {
+      "title": "Community Bug Bounty",
+      "description": "Host a small bug bounty for your tool and reward fixes with shoutouts."
+    },
+    {
+      "title": "Project Retrospective",
+      "description": "Write a post explaining what worked and what didn't in your last build."
+    }
+  ],
+  "educator": [
+    {
+      "title": "Beginner's Guide to Sentient",
+      "description": "Write a step-by-step guide explaining what Sentient is and how members can start contributing."
+    },
+    {
+      "title": "AGI Roles Explained",
+      "description": "Create a post or infographic explaining the path from Early AGI to Sentient AGI."
+    },
+    {
+      "title": "Weekly Knowledge Digest",
+      "description": "Summarize the most important discussions, projects, and learnings from the week."
+    },
+    {
+      "title": "ELI5 Concept Post",
+      "description": "Take a complex AI or crypto term and explain it in simple, friendly language."
+    },
+    {
+      "title": "Onboarding Video Tutorial",
+      "description": "Record a short screen-share showing newcomers how to log contributions."
+    },
+    {
+      "title": "Sentient Wiki Builder",
+      "description": "Create and maintain a wiki of community knowledge, guides, and role breakdowns."
+    },
+    {
+      "title": "Interactive Quiz",
+      "description": "Build a quiz to test understanding of Sentient roles and community structure."
+    },
+    {
+      "title": "Thread Explainer",
+      "description": "Write an X thread that explains a Sentient concept clearly and with examples."
+    },
+    {
+      "title": "Research Paper Summary",
+      "description": "Simplify an AI/crypto paper into a 5-point community-friendly summary."
+    },
+    {
+      "title": "Sentient Glossary",
+      "description": "Publish a glossary of common Sentient terms for easy reference."
+    },
+    {
+      "title": "Workshop Host",
+      "description": "Host a small workshop teaching a Sentient topic like GitHub basics or role progression."
+    },
+    {
+      "title": "Visual Roadmap",
+      "description": "Design a roadmap graphic showing how to go from newbie to Sentient AGI."
+    },
+    {
+      "title": "FAQ Explainer Thread",
+      "description": "Answer frequently asked questions in a single easy-to-share post."
+    },
+    {
+      "title": "Learning Resource Pack",
+      "description": "Curate a set of articles, videos, and tools for each Sentient role."
+    },
+    {
+      "title": "Daily Learning Bite",
+      "description": "Share one quick fact, tip, or concept per day about AI, crypto, or Sentient."
+    },
+    {
+      "title": "Annotated Guide",
+      "description": "Take an existing guide and add comments, tips, and visuals to make it easier to follow."
+    },
+    {
+      "title": "Community Knowledge Map",
+      "description": "Build a visual map connecting Sentient topics, roles, and resources."
+    },
+    {
+      "title": "Tutorial Thread Series",
+      "description": "Publish a multi-part thread series teaching Sentient concepts step by step."
+    },
+    {
+      "title": "Story-Based Explainer",
+      "description": "Turn a Sentient concept into a story or analogy to make it easier to grasp."
+    },
+    {
+      "title": "Sentient Case Studies",
+      "description": "Highlight examples of members moving from Early AGI to Advanced AGI."
+    },
+    {
+      "title": "Role Comparison Chart",
+      "description": "Make a chart comparing Educator, Builder, Artist, and Helper contributions."
+    },
+    {
+      "title": "Gamified Learning Challenge",
+      "description": "Design a simple challenge or quiz where members earn points for answering correctly."
+    },
+    {
+      "title": "Daily Thread Recap",
+      "description": "Summarize the best threads from the community each day for easy catch-up."
+    },
+    {
+      "title": "Explain a Tool",
+      "description": "Pick a Sentient tool and create a how-to guide for using it."
+    },
+    {
+      "title": "Workshop Notes",
+      "description": "Take detailed notes from a community event and turn them into a clear summary."
+    },
+    {
+      "title": "Top 5 Tips Post",
+      "description": "Write a 'Top 5 Tips' post about navigating a role or tool in Sentient."
+    },
+    {
+      "title": "Infographic Thread",
+      "description": "Combine visuals + text in a thread to simplify Sentient processes."
+    },
+    {
+      "title": "Role Milestones Guide",
+      "description": "Publish a list of quality milestones that matter for AGI role progression."
+    },
+    {
+      "title": "ELI5 Role Series",
+      "description": "Make a series where each post explains one Sentient role as if to a 5-year-old."
+    },
+    {
+      "title": "Newcomer Survival Guide",
+      "description": "Create a one-page guide for newcomers to get started quickly."
+    },
+    {
+      "title": "Resource Comparison",
+      "description": "Compare tools (Notion vs your tracker app, for example) in an objective guide."
+    },
+    {
+      "title": "Community Story Highlights",
+      "description": "Pick inspiring stories from the community and turn them into educational posts."
+    },
+    {
+      "title": "Video Explainer",
+      "description": "Make a short animated or live video simplifying a community concept."
+    },
+    {
+      "title": "Step-by-Step Tutorial",
+      "description": "Create a detailed tutorial for building or contributing as a role."
+    },
+    {
+      "title": "Knowledge Threads Archive",
+      "description": "Curate a thread archive of the best educational posts in Sentient."
+    },
+    {
+      "title": "Visual Concept Map",
+      "description": "Design a mind-map graphic that organizes Sentient concepts visually."
+    },
+    {
+      "title": "Sentient Cheat Sheet",
+      "description": "Create a one-page printable cheat sheet for quick role reference."
+    },
+    {
+      "title": "AMA Host",
+      "description": "Host an Ask-Me-Anything session on a Sentient topic and summarize Q&As."
+    },
+    {
+      "title": "Educator Tips Series",
+      "description": "Write a recurring post sharing tips for being a better Sentient educator."
+    },
+    {
+      "title": "Tool Walkthrough",
+      "description": "Record a walkthrough video showing how to use a popular Sentient tool."
+    },
+    {
+      "title": "Newbie Q&A Thread",
+      "description": "Run a thread where you answer newcomer questions in public."
+    },
+    {
+      "title": "Learning Challenge Recap",
+      "description": "Summarize outcomes of any Sentient learning challenge or event."
+    },
+    {
+      "title": "Educator's Journal",
+      "description": "Share weekly reflections on what you taught and what you learned."
+    }
+  ],
+  "artist": [
+    {
+      "title": "Sentient Meme Pack",
+      "description": "Design a set of memes about Builder grind, Educator guides, Helper vibes, and Artist flair."
+    },
+    {
+      "title": "Role Mascot Series",
+      "description": "Illustrate a unique mascot for each Sentient role with consistent style."
+    },
+    {
+      "title": "Community Poster",
+      "description": "Design a poster that visually explains the journey from newbie to Sentient AGI."
+    },
+    {
+      "title": "Animated Explainer",
+      "description": "Make a short animated video showing how Sentient roles contribute together."
+    },
+    {
+      "title": "AGI Path Infographic",
+      "description": "Create a visual diagram of the stages: Early AGI → Advanced AGI → Sentient AGI."
+    },
+    {
+      "title": "Sentient Wallpaper Pack",
+      "description": "Design community wallpapers for desktop and mobile with Sentient branding."
+    },
+    {
+      "title": "Icon Pack",
+      "description": "Create small, reusable icons for Builder, Educator, Helper, and Artist."
+    },
+    {
+      "title": "Role Comic Strip",
+      "description": "Draw a comic strip showing the funny side of each role's contributions."
+    },
+    {
+      "title": "Social Template Pack",
+      "description": "Design X/Twitter and Discord templates members can use for contribution posts."
+    },
+    {
+      "title": "Profile Banner Art",
+      "description": "Create Sentient-themed banners for community members' profiles."
+    },
+    {
+      "title": "Mascot Sticker Set",
+      "description": "Design digital stickers of role mascots for chat platforms."
+    },
+    {
+      "title": "Tool UI Skins",
+      "description": "Make custom UI themes for Sentient tools (dark, neon, minimal)."
+    },
+    {
+      "title": "Contribution Certificate",
+      "description": "Design printable certificates members can give each other for milestones."
+    },
+    {
+      "title": "Visual Storytelling Thread",
+      "description": "Publish a thread with illustrations explaining how Sentient works."
+    },
+    {
+      "title": "3D Role Icons",
+      "description": "Create simple 3D icons representing Sentient roles."
+    },
+    {
+      "title": "Community Emoji Pack",
+      "description": "Design emojis that represent Sentient vibes for Discord use."
+    },
+    {
+      "title": "Animated Badges",
+      "description": "Design animated role badges members can showcase online."
+    },
+    {
+      "title": "Illustrated Glossary",
+      "description": "Turn the Sentient glossary into illustrated flashcards."
+    },
+    {
+      "title": "Event Poster Designer",
+      "description": "Make posters for community events and learning sessions."
+    },
+    {
+      "title": "Contribution Tracker Theme",
+      "description": "Design a custom visual theme for the Sentient Contribution Tracker app."
+    },
+    {
+      "title": "Role Journey Art",
+      "description": "Draw a visual journey showing how one can grow from Helper to Sentient AGI."
+    },
+    {
+      "title": "Art-based Tutorial",
+      "description": "Make a tutorial thread using illustrated steps instead of text-only."
+    },
+    {
+      "title": "Community Collage",
+      "description": "Collect members' contributions and turn them into a single poster."
+    },
+    {
+      "title": "Visual Progress Chart",
+      "description": "Design a progress chart where members can mark their AGI journey."
+    },
+    {
+      "title": "Role Trading Cards",
+      "description": "Design trading-card-style graphics for Builder, Educator, Artist, Helper."
+    },
+    {
+      "title": "Animated Role Intro",
+      "description": "Create a looping GIF that introduces each role."
+    },
+    {
+      "title": "Sentient Storyboard",
+      "description": "Illustrate a storyboard showing how Sentient grows as more people contribute."
+    },
+    {
+      "title": "Custom Avatar Maker",
+      "description": "Design an avatar generator so members can create their own Sentient characters."
+    },
+    {
+      "title": "Infographic Series",
+      "description": "Make a series of infographics simplifying Sentient processes."
+    },
+    {
+      "title": "Community Celebration Poster",
+      "description": "Design a poster celebrating when the community hits milestones."
+    },
+    {
+      "title": "Role Transformation Art",
+      "description": "Illustrate how someone changes as they move through Sentient roles."
+    },
+    {
+      "title": "Event Recap Graphic",
+      "description": "Summarize an event visually in one graphic for easy sharing."
+    },
+    {
+      "title": "Sentient Timeline",
+      "description": "Draw a timeline graphic showing how the project has grown over time."
+    },
+    {
+      "title": "Visual Contribution Log",
+      "description": "Design a template for members to log contributions visually instead of in text."
+    },
+    {
+      "title": "Mascot Animation",
+      "description": "Create a short animation of the Sentient mascot doing role tasks."
+    },
+    {
+      "title": "Community Card Templates",
+      "description": "Design templates for shoutouts, achievements, or thank-you cards."
+    },
+    {
+      "title": "Daily Doodle Series",
+      "description": "Draw one small doodle a day inspired by Sentient activities."
+    },
+    {
+      "title": "Role Meme Generator",
+      "description": "Make a template for role-specific memes with placeholders for text."
+    },
+    {
+      "title": "Community Infographic Report",
+      "description": "Turn community stats into a visually appealing infographic."
+    },
+    {
+      "title": "Sentient Role Avatars",
+      "description": "Draw avatars that members can use based on their chosen role."
+    },
+    {
+      "title": "Motivational Poster Series",
+      "description": "Design posters with motivational quotes tailored to Sentient contributors."
+    },
+    {
+      "title": "Illustrated Success Stories",
+      "description": "Turn member success stories into short illustrated comics."
+    },
+    {
+      "title": "Sentient Badge Frames",
+      "description": "Design profile picture frames that showcase Sentient roles."
+    },
+    {
+      "title": "Event Invite Art",
+      "description": "Create eye-catching graphics to invite members to events."
+    }
+  ]
+}
